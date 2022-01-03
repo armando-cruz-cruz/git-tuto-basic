@@ -9,4 +9,4 @@ agregar para probar desktop
 
 otra prueba
 
-estos es de VS Code .
+estos es de VS Code . desde la extension
